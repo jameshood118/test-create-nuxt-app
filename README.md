@@ -1,4 +1,6 @@
-# text-nuxt2
+# Nuxt Create App
+
+The second test with nuxt, the first was just manual nuxt. this one is using the create-nuxt-app cli
 
 ## Build Setup
 
